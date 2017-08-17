@@ -13,20 +13,6 @@ baseurl: "http://schweibeyond.github.io"         # for example, '/blog' if your 
 # SNS settings
 github_username: SchweiBeyond
 
-favicon: img/shuai.png
-
-timezone: Asia/Shanghai
-
-# Defaults for posts
-defaults:
-  -
-    scope: 
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      author: "SchweiBeyond"
-      header-img: "img/shuai.jpg"
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
